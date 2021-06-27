@@ -5,10 +5,10 @@
 - Editor of your choice(VS Code/Sublime Text recommended)
 
 ## How to play from your local machine with 'dumb' algo
-We have written all boilerplate code to get you started within 5 minutes. You kust need to make 'MySmartAlgo' smarter. You can improve your algo by playing with test server.
+We have written all boilerplate code to get you started within 5 minutes. You just need to make 'mySmartAlgo.js' smarter. You can improve your algo by playing with test server.
 - Clone this repo using : git clone https://github.com/git-dev-eng/codecomp-player-node
 - cd codecomp-player-node
-- change 'team' and 'password' in config.js 
+- change 'team' and 'password' in config.js file
 - npm install
 - npm run start
 - see url for live score : https://mmd-2021-ui-g6titslaoq-ew.a.run.app/Live
