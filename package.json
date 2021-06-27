@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@.git"
+    "url": "https://github.com/git-dev-eng/codecomp-player-node.git"
   },
-  "author": "Aayush",
+  "author": "Aayush Gupta",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.3.3",
